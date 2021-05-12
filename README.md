@@ -1,4 +1,8 @@
-### Hi there 👋
+<img style="float: left;" src="images/jameno_banner.png">
+
+### Hi there 👋 
+
+Welcome to my github page. I'll be updating this page with highlights soon.
 
 <!--
 **jameno/jameno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
