@@ -2,7 +2,12 @@
 
 ### Hi there 👋 
 
-Welcome to my github page. I'll be updating this page with highlights soon.
+Welcome to my github page. Here you'll find many of my open source tools and personal research projects. 
+
+I've also hidden some puzzles among my code. Here's a clue to get started:  
+```
+50 75 7A 7A 6C 65 20 23 31 3A 20 77 77 77 2E 6A 61 73 6F 6E 6D 65 6E 6F 2E 63 6F 6D
+```
 
 <!--
 **jameno/jameno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
