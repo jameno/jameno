@@ -1,5 +1,3 @@
-<img style="float: left;" src="images/jameno_banner.png">
-
 ## Hi there 👋  Welcome to my github page!
 <details>
 <summary>Here you'll find many of my open source tools and personal research projects.</summary>
