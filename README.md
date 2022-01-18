@@ -1,5 +1,4 @@
-## Hi there 👋  Welcome to my github page!
-<details>
+## Hi! 👋 
 <summary>Here you'll find many of my open source tools and personal research projects.</summary>
 <br>
 <details>
