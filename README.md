@@ -1,4 +1,5 @@
 ## Hi! 👋 
+<details>
 <summary>Here you'll find many of my open source tools and personal research projects.</summary>
 <br>
 <details>
